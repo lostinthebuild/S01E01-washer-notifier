@@ -1,0 +1,8 @@
+{
+    "yaml.customTags": [
+        "!secret scalar"
+    ],
+    "yaml.validate": true,
+    "editor.fontSize": 12,
+    "window.zoomLevel": 2
+}
