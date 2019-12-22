@@ -13,10 +13,10 @@ This is part 1 of the project. In this part I wrote a little python script(http:
 Schematic: http://bit.ly/2rf4BGa
 
 ### Aliexpress:
-Female Micro USB Connector: http://s.click.aliexpress.com/e/CWPZ2ZrS
-Small Box: http://s.click.aliexpress.com/e/BXgpWTYM
-MPU6050: http://s.click.aliexpress.com/e/qs81hpFa
-ESP-01: http://s.click.aliexpress.com/e/5LVC1OKM
-ESP-01 Programmer: http://s.click.aliexpress.com/e/qNMsgQBm
-3.3V regulator : http://s.click.aliexpress.com/e/DyoqPbhW
-Veroboard: http://s.click.aliexpress.com/e/FnTQdduy
+* Female Micro USB Connector: http://s.click.aliexpress.com/e/CWPZ2ZrS
+* Small Box: http://s.click.aliexpress.com/e/BXgpWTYM
+* MPU6050: http://s.click.aliexpress.com/e/qs81hpFa
+* ESP-01: http://s.click.aliexpress.com/e/5LVC1OKM
+* ESP-01 Programmer: http://s.click.aliexpress.com/e/qNMsgQBm
+* 3.3V regulator : http://s.click.aliexpress.com/e/DyoqPbhW
+* Veroboard: http://s.click.aliexpress.com/e/FnTQdduy
